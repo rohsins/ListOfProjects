@@ -442,6 +442,12 @@
 * Developed software in Rust to receive data from a P-alert seismic device, utilizing a custom protocol for communication. 
 * Reverse-engineered the custom protocol to understand the data structure and developed a parser to interpret the incoming data. 
 * Implemented a TCP socket-based communication system to reliably receive seismic data in real-time from the P-alert device. 
+
+### Identity and Access Management (IAM) (2021)
+* Design an architecture for Identity and Access Management service.
+* Database design for storing the information efficiently.
+* Implement the guidelines from NIST.
+* Wrote the drivers, utils and other supporting packages needed for IAM.
  
 ### Contact Tracing (2020) 
 * Developed an Android application for contact tracing during the Covid-19 pandemic, designed to help identify and track potential exposure to the virus. 
