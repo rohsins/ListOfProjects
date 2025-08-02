@@ -68,6 +68,9 @@
   - [Chrome Extension for IMS (2023)](#chrome-extension-for-ims-2023)
   - [Update server (2023)](#update-server-2023)
   - [P-Alert integration (2023)](#p-alert-integration-2023)
+  - [Frontend for Identity and Access Management (Cactus) (2022)](#frontend-for-identity-and-access-management-cactus-2022)
+  - [Api gateway (2022)](#api-gateway-2022)
+  - [Identity and Access Management (IAM) (2021)](#identity-and-access-management-iam-2021)
   - [Contact Tracing (2020)](#contact-tracing-2020)
   - [CDCP Testing Software (2019)](#cdcp-testing-software-2019)
   - [Network Server (2017 – 2019)](#network-server-2017--2019)
@@ -443,11 +446,24 @@
 * Reverse-engineered the custom protocol to understand the data structure and developed a parser to interpret the incoming data. 
 * Implemented a TCP socket-based communication system to reliably receive seismic data in real-time from the P-alert device. 
 
+### Frontend for Identity and Access Management (Cactus) (2022)
+* Developed a responsive and secure frontend application using Next.js, serving as the primary user interface for interacting with backend microservices.
+* Integrated with Identity and Access Management (IAM) systems to handle authentication and authorization flows securely.
+* Coordinated with an API Gateway to manage API requests, ensuring secure and efficient communication between frontend and backend.
+* Implemented best practices for token management, client-side routing, and state management to enhance user experience.
+
+
+### Api gateway (2022)
+* Designed and implemented a centralized API Gateway to route and orchestrate traffic across multiple microservices with support for RESTful and internal service calls.
+* Developed a custom rule-based policy engine enabling granular access control per user, endpoint, method, and role -- allowing dynamic enforcement of security and authorization rules.
+* Implemented session management service for secure, stateful tracking of authenticated users across distributed services, supporting token refresh, expiry, and concurrent session handling.
+* Integrated authentication mechanisms and enforced per client rate limiting, IP whitelisting, and request validation.
+
 ### Identity and Access Management (IAM) (2021)
-* Design an architecture for Identity and Access Management service.
-* Database design for storing the information efficiently.
-* Implement the guidelines from NIST.
-* Wrote the drivers, utils and other supporting packages needed for IAM.
+* Built and mainained a centralized IAM system for managing users, roles, and access rights across internal and external applications.
+* Implemented authentication protocols.
+* Defined an enforced RBAC authoriztion rules for services and APIs to ensure least-privilege access.
+* Developed a custom policy engine to evaluate access decisions based on user identity, resource type, request time, and origin.
  
 ### Contact Tracing (2020) 
 * Developed an Android application for contact tracing during the Covid-19 pandemic, designed to help identify and track potential exposure to the virus. 
