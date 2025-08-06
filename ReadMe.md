@@ -18,14 +18,14 @@
   - [Radio Sonde – 2023](#radio-sonde--2023)
   - [Smart Farming IoT – 2022](#smart-farming-iot--2022)
   - [SDI-12 Isolator - 2022](#sdi-12-isolator---2022)
-  - [Landslide Monitor using RTK GPS, Hardware Designer, Software Programmer (2021 – 2022)](#landslide-monitor-using-rtk-gps-hardware-designer-software-programmer-2021--2022)
+  - [Landslide Monitor using RTK GPS (2021 – 2022)](#landslide-monitor-using-rtk-gps-2021--2022)
   - [Battery Management System for Lithium Iron Yttrium Phosphate Battery – 2022](#battery-management-system-for-lithium-iron-yttrium-phosphate-battery--2022)
   - [Upgrade Compact Data Collection Platform V2 (2021)](#upgrade-compact-data-collection-platform-v2-2021)
-  - [ADC Expansion Board for CDCP, Hardware Designer (2020)](#adc-expansion-board-for-cdcp-hardware-designer-2020)
+  - [ADC Expansion Board for CDCP (2020)](#adc-expansion-board-for-cdcp-2020)
   - [Capacitive Touch Keypad for Queue Management System – 2020](#capacitive-touch-keypad-for-queue-management-system--2020)
   - [Automatic Meter Reading – 2018](#automatic-meter-reading--2018)
   - [Door Access Controller – 2017](#door-access-controller--2017)
-  - [GSM Antenna ANT2901, Hardware Designer (2017)](#gsm-antenna-ant2901-hardware-designer-2017)
+  - [GSM Antenna ANT2901 (2017)](#gsm-antenna-ant-2901-2017)
   - [RTDL Datalogger – 2017](#rtdl-datalogger--2017)
   - [Infrastructure Monitoring System – 2017](#infrastructure-monitoring-system--2017)
   - [Communication Module – 2017](#communication-module--2017)
@@ -195,7 +195,7 @@
 * The device defaults to receive mode, automatically switching to transmit mode upon detecting a data write. 
 * Focused on enhancing data integrity and protection in SDI-12 communication systems for environmental monitoring and other applications. 
  
-### Landslide Monitor using RTK GPS, Hardware Designer, Software Programmer (2021 – 2022) 
+### Landslide Monitor using RTK GPS (2021 – 2022) 
 * A device that monitors movement of a land with centimeter accuracy using RTK 
 * GPS to profile and analyze. 
  
@@ -210,7 +210,7 @@
 * Improved Electromagnetic Interference (EMI) shielding for more stable and reliable operation in noisy environments. 
 * Upgraded heat dissipation mechanisms for better thermal management, ensuring optimal performance under high loads. 
  
-### ADC Expansion Board for CDCP, Hardware Designer (2020) 
+### ADC Expansion Board for CDCP (2020) 
 * Designed an expansion board for the CDCP, integrating a high-precision ADC for accurate data acquisition. 
 * Incorporated a display for real-time data visualization, enabling easy monitoring and control. 
 * Enhanced the overall functionality of the CDCP with precise measurements and user-friendly interface. 
@@ -231,7 +231,7 @@
 * Integrated UART communication for seamless connectivity with Wi-Fi and modem modules, enabling remote access and monitoring capabilities. 
 * Focused on creating a versatile and secure access control solution with easy integration into diverse environments. 
  
-### GSM Antenna ANT2901, Hardware Designer (2017) 
+### GSM Antenna ANT2901 (2017) 
 * A patch antenna for GSM. 
  
 ### RTDL Datalogger – 2017 
