@@ -25,7 +25,7 @@
   - [Capacitive Touch Keypad for Queue Management System – 2020](#capacitive-touch-keypad-for-queue-management-system--2020)
   - [Automatic Meter Reading – 2018](#automatic-meter-reading--2018)
   - [Door Access Controller – 2017](#door-access-controller--2017)
-  - [GSM Antenna ANT2901 (2017)](#gsm-antenna-ant-2901-2017)
+  - [GSM Antenna ANT2901 (2017)](#gsm-antenna-ant2901-2017)
   - [RTDL Datalogger – 2017](#rtdl-datalogger--2017)
   - [Infrastructure Monitoring System – 2017](#infrastructure-monitoring-system--2017)
   - [Communication Module – 2017](#communication-module--2017)
