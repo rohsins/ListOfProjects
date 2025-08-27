@@ -1,86 +1,84 @@
 **List of Projects**
 
 - [Hardware](#hardware)
-  - [Datalogger-XXI: High-Performance Data Logging System](#datalogger-xxi-high-performance-data-logging-system)
-  - [Seismic Data Acquisition System](#seismic-data-acquisition-system)
-  - [Precision RTK-Based Positioning System (Base \& Rover)](#precision-rtk-based-positioning-system-base--rover)
-  - [Infrastructure Monitoring System (IMS) – 2024](#infrastructure-monitoring-system-ims--2024)
-  - [Communication Modem with Ethernet (LE910V2) (2024)](#communication-modem-with-ethernet-le910v2-2024)
+  - [Datalogger-XXI: High-Performance Data Logging System (2025)](#datalogger-xxi-high-performance-data-logging-system-2025)
+  - [Seismic Data Acquisition System (2025)](#seismic-data-acquisition-system-2025)
+  - [Precision RTK-Based Positioning System (Base \& Rover, 2025)](#precision-rtk-based-positioning-system-base--rover-2025)
+  - [Infrastructure Monitoring System (IMS, 2024)](#infrastructure-monitoring-system-ims-2024)
+  - [Communication Modem with Ethernet (LE910V2, 2024)](#communication-modem-with-ethernet-le910v2-2024)
   - [Compact Data Collection Platform V3 (2024)](#compact-data-collection-platform-v3-2024)
   - [Temperature controlled ventilation (2024)](#temperature-controlled-ventilation-2024)
-  - [Battery Monitoring and Logging PCB – 2024](#battery-monitoring-and-logging-pcb--2024)
-  - [LoRa Communication Daughter Board for CDCP – 2024](#lora-communication-daughter-board-for-cdcp--2024)
-  - [4G Modem for IMS – 2024](#4g-modem-for-ims--2024)
-  - [IMS Front Panels – 2024](#ims-front-panels--2024)
-  - [Satellite Communication Modem – 2024](#satellite-communication-modem--2024)
-  - [Satellite Communication Daughter Board for CDCP – 2024](#satellite-communication-daughter-board-for-cdcp--2024)
-  - [Signal Amplifier and Conditioning Circuit – 2024](#signal-amplifier-and-conditioning-circuit--2024)
-  - [Radio Sonde – 2023](#radio-sonde--2023)
-  - [Smart Farming IoT – 2022](#smart-farming-iot--2022)
-  - [SDI-12 Isolator - 2022](#sdi-12-isolator---2022)
+  - [Battery Monitoring and Logging PCB (2024)](#battery-monitoring-and-logging-pcb-2024)
+  - [LoRa Communication Daughter Board for CDCP (2024)](#lora-communication-daughter-board-for-cdcp-2024)
+  - [4G Modem for IMS (2024)](#4g-modem-for-ims-2024)
+  - [IMS Front Panels (2024)](#ims-front-panels-2024)
+  - [Satellite Communication Modem (2024)](#satellite-communication-modem-2024)
+  - [Satellite Communication Daughter Board for CDCP (2024)](#satellite-communication-daughter-board-for-cdcp-2024)
+  - [Signal Amplifier and Conditioning Circuit (2024)](#signal-amplifier-and-conditioning-circuit-2024)
+  - [Radio Sonde (2023)](#radio-sonde-2023)
+  - [Smart Farming IoT (2022)](#smart-farming-iot-2022)
+  - [SDI-12 Isolator (2022)](#sdi-12-isolator-2022)
   - [Landslide Monitor using RTK GPS (2021 – 2022)](#landslide-monitor-using-rtk-gps-2021--2022)
-  - [Battery Management System for Lithium Iron Yttrium Phosphate Battery – 2022](#battery-management-system-for-lithium-iron-yttrium-phosphate-battery--2022)
+  - [Battery Management System for Lithium Iron Yttrium Phosphate Battery (2022)](#battery-management-system-for-lithium-iron-yttrium-phosphate-battery-2022)
   - [Upgrade Compact Data Collection Platform V2 (2021)](#upgrade-compact-data-collection-platform-v2-2021)
   - [ADC Expansion Board for CDCP (2020)](#adc-expansion-board-for-cdcp-2020)
-  - [Capacitive Touch Keypad for Queue Management System – 2020](#capacitive-touch-keypad-for-queue-management-system--2020)
-  - [Automatic Meter Reading – 2018](#automatic-meter-reading--2018)
-  - [Door Access Controller – 2017](#door-access-controller--2017)
-  - [GSM Antenna ANT2901 (2017)](#gsm-antenna-ant2901-2017)
-  - [RTDL Datalogger – 2017](#rtdl-datalogger--2017)
-  - [Infrastructure Monitoring System – 2017](#infrastructure-monitoring-system--2017)
-  - [Communication Module – 2017](#communication-module--2017)
-  - [Compact Data Collection Platform (CDCP) – 2016](#compact-data-collection-platform-cdcp--2016)
-  - [Audio Remote Terminal Unit (ARTU) – 2016](#audio-remote-terminal-unit-artu--2016)
-  - [Power monitor for Embedded System - 2016](#power-monitor-for-embedded-system---2016)
-  - [Power and Signal Interface Unit – 2016](#power-and-signal-interface-unit--2016)
-  - [Extension Board for Odroid-C2 – 2016](#extension-board-for-odroid-c2--2016)
-  - [Anti-theft Movement Sensor – 2016](#anti-theft-movement-sensor--2016)
-  - [Controller system for weighing – 2015](#controller-system-for-weighing--2015)
-  - [Single Phase Energy Meter – 2015](#single-phase-energy-meter--2015)
-  - [Relay and Triac Controller – 2015](#relay-and-triac-controller--2015)
-  - [Power Supply for Audio Amplifier – 2015](#power-supply-for-audio-amplifier--2015)
-  - [Power Supply for Tele-Terminal – 2015](#power-supply-for-tele-terminal--2015)
-  - [Multipurpose Ethernet Board – 2015](#multipurpose-ethernet-board--2015)
-  - [LoRa Wireless Remote Terminal Unit – 2015](#lora-wireless-remote-terminal-unit--2015)
-  - [Vehicle Guard and Fleet Management – 2015](#vehicle-guard-and-fleet-management--2015)
-  - [Lightning and Surge Arrester Module - 2015](#lightning-and-surge-arrester-module---2015)
-  - [Reflow Oven Controller Board – 2015](#reflow-oven-controller-board--2015)
-  - [University Major Project - Brain Control System (2014)](#university-major-project---brain-control-system-2014)
-  - [University Minor Project - Smart Wheelchair (2013)](#university-minor-project---smart-wheelchair-2013)
+  - [Capacitive Touch Keypad for Queue Management System (2020)](#capacitive-touch-keypad-for-queue-management-system-2020)
+  - [Automatic Meter Reading (2018)](#automatic-meter-reading-2018)
+  - [Door Access Controller (2017)](#door-access-controller-2017)
+  - [RTDL Datalogger (2017)](#rtdl-datalogger-2017)
+  - [Infrastructure Monitoring System (2017)](#infrastructure-monitoring-system-2017)
+  - [Communication Module (2017)](#communication-module-2017)
+  - [Compact Data Collection Platform (CDCP, 2016)](#compact-data-collection-platform-cdcp-2016)
+  - [Audio Remote Terminal Unit (ARTU, 2016)](#audio-remote-terminal-unit-artu-2016)
+  - [Power monitor for Embedded System (2016)](#power-monitor-for-embedded-system-2016)
+  - [Power and Signal Interface Unit (2016)](#power-and-signal-interface-unit-2016)
+  - [Extension Board for Odroid-C2 (2016)](#extension-board-for-odroid-c2-2016)
+  - [Anti-theft Movement Sensor (2016)](#anti-theft-movement-sensor-2016)
+  - [Controller system for weighing (2015)](#controller-system-for-weighing-2015)
+  - [Single Phase Energy Meter (2015)](#single-phase-energy-meter-2015)
+  - [Relay and Triac Controller (2015)](#relay-and-triac-controller-2015)
+  - [Power Supply for Audio Amplifier (2015)](#power-supply-for-audio-amplifier-2015)
+  - [Power Supply for Tele-Terminal (2015)](#power-supply-for-tele-terminal-2015)
+  - [Multipurpose Ethernet Board (2015)](#multipurpose-ethernet-board-2015)
+  - [LoRa Wireless Remote Terminal Unit (2015)](#lora-wireless-remote-terminal-unit-2015)
+  - [Vehicle Guard and Fleet Management (2015)](#vehicle-guard-and-fleet-management-2015)
+  - [Lightning and Surge Arrester Module (2015)](#lightning-and-surge-arrester-module-2015)
+  - [Reflow Oven Controller Board (2015)](#reflow-oven-controller-board-2015)
+  - [University Major Project (Brain Control System, 2014)](#university-major-project-brain-control-system-2014)
+  - [University Minor Project (Smart Wheelchair, 2013)](#university-minor-project-smart-wheelchair-2013)
 - [Firmware](#firmware)
-  - [Test Firmware for Low power Sensor nodes](#test-firmware-for-low-power-sensor-nodes)
-  - [CDCP Test Firmware – 2024 (updated) / 2019](#cdcp-test-firmware--2024-updated--2019)
-  - [RTK Integration with ADCP – 2023-2024](#rtk-integration-with-adcp--2023-2024)
-  - [Acconeer Test firmware – 2023](#acconeer-test-firmware--2023)
+  - [Test Firmware for Low power Sensor nodes (2025)](#test-firmware-for-low-power-sensor-nodes-2025)
+  - [CDCP Test Firmware (2019; 2024 - upgrade)](#cdcp-test-firmware-2019-2024---upgrade)
+  - [RTK Integration with ADCP (2023-2024)](#rtk-integration-with-adcp-2023-2024)
+  - [Acconeer Test firmware (2023)](#acconeer-test-firmware-2023)
   - [RTK system (2023)](#rtk-system-2023)
   - [Seismologger (2023)](#seismologger-2023)
-  - [Radio Sonde Firmware - 2023](#radio-sonde-firmware---2023)
+  - [Radio Sonde Firmware (2023)](#radio-sonde-firmware-2023)
   - [Test firmware for LR1121 lora chipset (2023)](#test-firmware-for-lr1121-lora-chipset-2023)
-  - [Test firmware for Piezo pressure sensor - 2022](#test-firmware-for-piezo-pressure-sensor---2022)
-  - [Radar System for Surveillance - 2020](#radar-system-for-surveillance---2020)
-  - [BLE Keyboard - 2020](#ble-keyboard---2020)
-  - [SDI-12 Converter - 2019](#sdi-12-converter---2019)
-  - [UPS Monitoring System - 2019](#ups-monitoring-system---2019)
-  - [Wireless Calling System - 2017](#wireless-calling-system---2017)
+  - [Test firmware for Piezo pressure sensor (2022)](#test-firmware-for-piezo-pressure-sensor-2022)
+  - [BLE Keyboard (2020)](#ble-keyboard-2020)
+  - [SDI-12 Converter (2019)](#sdi-12-converter-2019)
+  - [UPS Monitoring System (2019)](#ups-monitoring-system-2019)
+  - [Wireless Calling System (2017)](#wireless-calling-system-2017)
 - [Software](#software)
   - [Implementation of NTRIP server (2023)](#implementation-of-ntrip-server-2023)
-  - [Datalink Server - 2023](#datalink-server---2023)
+  - [Datalink Server (2023)](#datalink-server-2023)
   - [Chrome Extension for IMS (2023)](#chrome-extension-for-ims-2023)
   - [Update server (2023)](#update-server-2023)
   - [P-Alert integration (2023)](#p-alert-integration-2023)
-  - [Frontend for Identity and Access Management (Cactus) (2022)](#frontend-for-identity-and-access-management-cactus-2022)
+  - [Frontend for Identity and Access Management (Cactus, 2022)](#frontend-for-identity-and-access-management-cactus-2022)
   - [Api gateway (2022)](#api-gateway-2022)
   - [Identity and Access Management (IAM) (2021)](#identity-and-access-management-iam-2021)
   - [Contact Tracing (2020)](#contact-tracing-2020)
   - [CDCP Testing Software (2019)](#cdcp-testing-software-2019)
   - [Network Server (2017 – 2019)](#network-server-2017--2019)
-  - [Customized Linux Kernel for Embedded System - 2019](#customized-linux-kernel-for-embedded-system---2019)
-  - [Customized Bootloader for Embedded System - 2019](#customized-bootloader-for-embedded-system---2019)
+  - [Customized Linux Kernel for Embedded System (2019)](#customized-linux-kernel-for-embedded-system-2019)
+  - [Customized Bootloader for Embedded System (2019)](#customized-bootloader-for-embedded-system-2019)
   - [LoRa Connector for Network Server (2019)](#lora-connector-for-network-server-2019)
-  - [Unixevents - 2019](#unixevents---2019)
-  - [RAM Database - 2018](#ram-database---2018)
-  - [Customized MQTT Broker - 2018](#customized-mqtt-broker---2018)
-  - [Customized LoRaWAN Packet forwarder - 2017](#customized-lorawan-packet-forwarder---2017)
+  - [Unixevents (2019)](#unixevents-2019)
+  - [RAM Database (2018)](#ram-database-2018)
+  - [Customized MQTT Broker (2018)](#customized-mqtt-broker-2018)
+  - [Customized LoRaWAN Packet forwarder (2017)](#customized-lorawan-packet-forwarder-2017)
   - [Flood Alert Service (2016)](#flood-alert-service-2016)
   - [LCR Telemetry (2015)](#lcr-telemetry-2015)
 
@@ -160,7 +158,6 @@
 * Designed for modular expansion and seamless interface connectivity, supporting a wide range of industrial communication protocols. 
  
 ### Satellite Communication Modem (2024)
-* Developed a communication device enabling satellite connectivity for rural areas lacking traditional network coverage. 
 * Integrated an Orbcomm satellite communication modem by Quectel or U-blox for reliable, low-cost satellite communication. 
 * Supports battery-powered or DC input for flexible power options. 
 * Includes UART-TTL and RS232 interfaces for seamless integration with remote devices and sensors. 
@@ -196,9 +193,11 @@
 * Focused on enhancing data integrity and protection in SDI-12 communication systems for environmental monitoring and other applications. 
  
 ### Landslide Monitor using RTK GPS (2021 – 2022) 
-* A device that monitors movement of a land with centimeter accuracy using RTK.
-* GPS to profile and analyze. 
- 
+* Designed and developed a real-time monitoring system for detecting land movement with centimeter-level precision using RTK GNSS.
+* Integrated high-accuracy GNSS modules with data logging and wireless communication for remote monitoring.
+* Implemented GNSS data acquisition, filtering, and terrain profiling algorithms to analyze movement patterns.
+* Enabled early detection of potential landslides through continuous position tracking and trend analysis
+
 ### Battery Management System for Lithium Iron Yttrium Phosphate Battery (2022)
 * Designed a battery management system (BMS) for Lithium Iron Yttrium Phosphate (LiFeYPO4) battery chemistry. 
 * Monitored individual cells for voltage, temperature, and health to ensure optimal performance and safety. 
@@ -230,9 +229,6 @@
 * Implemented open drain and relay outputs for door lock control, ensuring reliable access management. 
 * Integrated UART communication for seamless connectivity with Wi-Fi and modem modules, enabling remote access and monitoring capabilities. 
 * Focused on creating a versatile and secure access control solution with easy integration into diverse environments. 
- 
-### GSM Antenna ANT2901 (2017) 
-* A patch antenna for GSM. 
  
 ### RTDL Datalogger (2017)
 * Designed a full-fledged data logger with a high-precision 32-bit ADC for accurate data collection. 
@@ -332,20 +328,20 @@
 * Focused on ensuring accurate and consistent temperature profiles to optimize soldering quality and efficiency in PCB assembly. 
 * Developed a reliable solution to improve the performance and precision of reflow soldering processes. 
  
-### University Major Project - (Brain Control System, 2014) 
+### University Major Project (Brain Control System, 2014) 
 * It is an extension to the smart wheelchair (minor project). Furthermore, it equips with EEG probes, which captures signals from brain and processed to control the wheelchair. 
  
-### University Minor Project - (Smart Wheelchair, 2013) 
+### University Minor Project (Smart Wheelchair, 2013) 
 * A wheelchair that can be controlled by joystick, voice, head gesture. It uses gyroscope for path correction, accelerometer for head gesture, ultrasonic sensor for collision detection.
 
 
 ## Firmware 
-### Test Firmware for Low power Sensor nodes 
+### Test Firmware for Low power Sensor nodes (2025)
 * Developed firmware to evaluate BLE 5.4 performance in both Central and Peripheral roles, supporting 1M PHY, 2M PHY, and Coded PHY. 
 * Enabled real-time configuration of communication settings to test various operational scenarios. 
 * Integrated power consumption profiling to optimize energy efficiency across different PHY configurations. 
  
-### CDCP Test Firmware – 2024 (updated) / 2019  
+### CDCP Test Firmware (2019; 2024 - upgrade)
 * Developed automated test firmware for the CDCP logic board, written in C using CMSIS-OS. 
 * Implemented thorough testing routines to verify the functionality of all interfaces and ICs, ensuring the board's reliability and performance. 
 * Focused on streamlining the testing process and improving the efficiency of the validation process for the CDCP logic board. 
@@ -394,9 +390,6 @@
 * Implemented signal processing to detect the sensor's response frequency, which varies with pressure. 
 * Derived pressure values from the sensor’s response frequency using the equation, constants, and calibration data provided by the manufacturer. 
 * Enabled real-time pressure calculations based on sensor feedback, ensuring precise and accurate pressure measurements. 
- 
-### Radar System for Surveillance (2020)
-* A firmware for detection and separation of moving and stationary targets according to their speed, range and azimuth angle. 
  
 ### BLE Keyboard (2020)
 * Developed firmware for a BLE microcontroller to enable BLE HID (Bluetooth Low Energy Human Interface Device) functionality, allowing communication with BLE-enabled devices. 
@@ -453,7 +446,6 @@
 * Coordinated with an API Gateway to manage API requests, ensuring secure and efficient communication between frontend and backend.
 * Implemented best practices for token management, client-side routing, and state management to enhance user experience.
 
-
 ### Api gateway (2022)
 * Designed and implemented a centralized API Gateway to route and orchestrate traffic across multiple microservices with support for RESTful and internal service calls.
 * Developed a custom rule-based policy engine enabling granular access control per user, endpoint, method, and role -- allowing dynamic enforcement of security and authorization rules.
@@ -461,7 +453,7 @@
 * Integrated authentication mechanisms and enforced per client rate limiting, IP whitelisting, and request validation.
 
 ### Identity and Access Management (IAM) (2021)
-* Built and mainained a centralized IAM system for managing users, roles, and access rights across internal and external applications.
+* Built and maintained a centralized IAM system for managing users, roles, and access rights across internal and external applications.
 * Implemented authentication protocols.
 * Defined an enforced RBAC authoriztion rules for services and APIs to ensure least-privilege access.
 * Developed a custom policy engine to evaluate access decisions based on user identity, resource type, request time, and origin.
@@ -484,7 +476,7 @@
 * Optimized the software for low-latency and high-performance operation, ensuring efficient device communication in resource-constrained environments. 
 * Ensured robust error handling and data integrity during communication, improving system reliability. 
  
-### Customized Linux Kernel for Embedded System - 2019 
+### Customized Linux Kernel for Embedded System (2019)
 * Customized Linux Kernel for Embedded Device with i.MX6SX Dual-Core Heterogeneous Processor.
 * Developed and tailored a custom Linux kernel for an embedded system based on the NXP i.MX6SX SoC, featuring a heterogeneous dual-core architecture (ARM Cortex-A9 + Cortex-M4).
 * Key contributions include:
@@ -495,7 +487,7 @@
     * Peripheral Driver Development.
     * Power Management & Suspend/Resume.
  
-### Customized Bootloader for Embedded System - 2019 
+### Customized Bootloader for Embedded System (2019)
 * Developed a bootloader for a custom embedded device utilizing the IMX6SX processor. 
 * Forked and customized the open-source Das U-Boot bootloader from the Freescale repository to meet specific device requirements. 
 * Enabled efficient and secure booting of the device, ensuring smooth initialization and firmware loading. 
@@ -507,27 +499,32 @@
 * Optimized performance for low-latency transmission and efficient data handling, enhancing system reliability. 
 * Ensured robust error handling and protocol compatibility to maintain consistent and secure communication. 
  
-### Unixevents - 2019 
+### Unixevents (2019)
 * Developed a Node.js library to facilitate communication between Node.js applications via Unix sockets and Node.js events. 
 * Implemented efficient message exchange and event-based communication, ensuring smooth interaction between distributed applications. 
 * Optimized for low-latency performance, scalability, and seamless integration with existing Node.js projects. 
 * Ensured reliable handling of multiple connections and events in a concurrent environment. 
  
-### RAM Database - 2018 
+### RAM Database (2018)
 * Developed a database to manage cache and routing tables for a Network Server, optimizing data storage and retrieval. 
 * Implemented efficient data structures for fast lookups, ensuring quick access to routing information and reducing server latency. 
 * Designed the system to support high-throughput environments, maintaining real-time performance for network operations. 
 * Ensured data consistency and integrity across the cache and routing tables to support reliable network communication. 
  
-### Customized MQTT Broker - 2018 
+### Customized MQTT Broker (2018)
 * Forked and customized the Mosquitto MQTT broker from the Paho repository, incorporating nonstandard functionality to address specific use case requirements. 
 * Added new features and optimizations to enhance performance, security, and scalability beyond the default MQTT specifications. 
 * Tailored the broker to support custom message processing and extended protocols, ensuring efficient, low-latency communication. 
 * Maintained compatibility with MQTT standards while integrating unique functionalities into the system. 
  
-### Customized LoRaWAN Packet forwarder - 2017 
-* Customized LoRaWAN packet forwarder for additional functionality – logging communications with LoRa Network Server, forked from Semtech GitHub repository. 
- 
+### Customized LoRaWAN Packet forwarder (2017)
+* Modified and enchanced the Semtech LoRaWAN packet forwarder to include extended communication logging with the LoRa Network Server.
+* Implemented additional diagnostic and debugging features to improve network monitoring and fault analysis.
+* Maintained compatibility with the original protocol while optimizing for custom deployment needs.
+
+### WCS Firmware Validator (2017)
+* A GUI-based software tool that takes a generic firmware image and customizes it for a specific device by encrypting the firmware with a device-specific key, ensuring that only the intended device can decrypt and run it.
+
 ### Flood Alert Service (2016) 
 * Developed software to connect to the SMPP gateway of a cellular service provider for disseminating alert messages to flood-prone areas. 
 * Designed specifically for the Department of Hydrology and Meteorology, enabling timely distribution of critical weather and flood alerts to the public. 

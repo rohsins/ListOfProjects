@@ -522,6 +522,9 @@
 * Implemented additional diagnostic and debugging features to improve network monitoring and fault analysis.
 * Maintained compatibility with the original protocol while optimizing for custom deployment needs.
 
+### WCS Firmware Validator (2017)
+* A GUI-based software tool that takes a generic firmware image and customizes it for a specific device by encrypting the firmware with a device-specific key, ensuring that only the intended device can decrypt and run it.
+
 ### Flood Alert Service (2016) 
 * Developed software to connect to the SMPP gateway of a cellular service provider for disseminating alert messages to flood-prone areas. 
 * Designed specifically for the Department of Hydrology and Meteorology, enabling timely distribution of critical weather and flood alerts to the public. 
