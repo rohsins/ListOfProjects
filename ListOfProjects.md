@@ -535,3 +535,9 @@
 * Developed an Android application for remotely displaying LCR (Inductance, Capacitance, and Resistance) parameters over TCP/IP. 
 * Implemented real-time data fetching from remote devices, enabling users to instantly view LCR measurements. 
  
+## Computer Aided Design (CAD)
+### Enclosure Design for Infrastructure Monitoring System
+
+### Enclosure Design for Temperature Controlled Ventilation
+
+### Enclosure Design for LoRa Remote Terminal Unit
