@@ -537,6 +537,16 @@
  
 ## Computer Aided Design (CAD)
 ### Enclosure Design for Infrastructure Monitoring System
+* Designed 3D-printable enclosures for an infrastructure monitoring system, optimized for rapid prototyping and validation.
+* Created detailed 3D CAD models and engineering drawings, ensuring accurate fit with PCBs, sensors, and connectors.
+* Iterated enclosure prototypes using FDM 3D printing, validating tolerances, assembly, and ergonomics before production tooling.
+* Considered thermal performance, mechanical strength, and IP-rated sealing features in the design.
+* Collaborated with hardware, firmware, and QA teams to align enclosure design with system requirements and manufacturability.
+* Designed 3D-printable enclosures for an infrastructure monitoring system, optimized for rapid prototyping and validation.
+* Created detailed 3D CAD models and engineering drawings, ensuring accurate fit with PCBs, sensors, and connectors.
+* Iterated enclosure prototypes using FDM 3D printing, validating tolerances, assembly, and ergonomics before production tooling.
+* Considered thermal performance, mechanical strength, and IP-rated sealing features in the design.
+* Collaborated with hardware, firmware, and QA teams to align enclosure design with system requirements and manufacturability.
 
 ### Enclosure Design for Temperature Controlled Ventilation
 
