@@ -414,6 +414,10 @@
 
 
 ## Software 
+### [Unixevents for python](https://github.com/rohsins/unixevents_py) [2025 | Open source]
+* Implemented unixevents, library originally written for js(nodejs), for python.
+* A message sent over a Unixevents channel from a process written in Python can be seamlessly received by a process written in JavaScript (Node.js), and vice versa.
+
 ### Implementation of NTRIP server (2023) 
 * Implemented an NTRIP server on an AWS EC2 instance to facilitate a Real-Time Kinematic (RTK) GPS system. 
 * Configured the server to deliver accurate correction data from reference stations to GNSS receivers, enabling high-precision positioning in real-time. 
@@ -499,7 +503,7 @@
 * Optimized performance for low-latency transmission and efficient data handling, enhancing system reliability. 
 * Ensured robust error handling and protocol compatibility to maintain consistent and secure communication. 
  
-### Unixevents (2019)
+### [Unixevents](https://github.com/rohsins/unixevents) (2019)
 * Developed a Node.js library to facilitate communication between Node.js applications via Unix sockets and Node.js events. 
 * Implemented efficient message exchange and event-based communication, ensuring smooth interaction between distributed applications. 
 * Optimized for low-latency performance, scalability, and seamless integration with existing Node.js projects. 
@@ -549,5 +553,8 @@
 * Collaborated with hardware, firmware, and QA teams to align enclosure design with system requirements and manufacturability.
 
 ### Enclosure Design for Temperature Controlled Ventilation
+* Designed enclosure for Temperataure Controlled Ventilation hardware.
+* It has a cutouts for 3 buttons, display, 2 temperature sensor and AC input and output connectors.
+* It has a flange to mount it on a wall.
 
 ### Enclosure Design for LoRa Remote Terminal Unit
